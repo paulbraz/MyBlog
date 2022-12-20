@@ -1,5 +1,5 @@
 ---
-title: "Install-Virtual-Environment-in-VS-Code-Using-Pipenv"
+title: "Install Virtual Environment in VS Code Using Pipenv"
 date: 2022-12-11
 ---
 # Install Virtual Environment in VS Code Using Pipenv
